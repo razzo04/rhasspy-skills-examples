@@ -1,0 +1,1 @@
+This repo include some skill usable with [rhasspy](https://rhasspy.readthedocs.io/en/latest/) that can be installed and manage with [rhasspy-skills](https://github.com/razzo04/rhasspy-skills)
