@@ -1,0 +1,20 @@
+{
+    "name": "default city",
+    "slug": "weather_example",
+    "version": "0.1.0",
+    "internet_access": true,
+    "description": "a simple skill that tell you the weather",
+    "image": null,
+    "languages": [
+        "en"
+    ],
+    "auto_train": true,
+    "topic_access": null,
+    "default_config": {
+        "default_city": "Washington DC"
+    },
+    "schema_config": {
+        "default_city": "str",
+        "api_key": "str"
+    }
+}
